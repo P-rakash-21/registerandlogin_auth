@@ -22,7 +22,7 @@ This project implements a register and login system with role-based authenticati
 
 Install dependencies:
 
-npm install
+npm install axios express mongoose dotenv
 
 Start the server:
 node server.js
